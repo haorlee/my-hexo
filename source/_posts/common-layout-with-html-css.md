@@ -1,7 +1,11 @@
 ---
 title: 利用HTML和CSS实现常见的布局
 date: 2016-04-06 20:41:07
-tags: 
+tags:
+    - fe
+    - html
+    - css
+    - layout
 ---
 
 ## 单列布局 ##

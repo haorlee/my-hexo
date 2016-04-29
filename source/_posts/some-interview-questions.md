@@ -1,7 +1,11 @@
 ---
 title: some interview questions
 date: 2016-04-16 10:10:01
-tags:
+tags: 
+  - interview
+  - algorithm
+  - javascript
+  - network
 ---
 > 非前端部分
 

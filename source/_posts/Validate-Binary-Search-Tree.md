@@ -2,6 +2,8 @@
 title: Validate Binary Search Tree
 date: 2016-04-29 18:42:45
 tags:
+  - tree
+  - algorithm
 ---
 
 ### Title ###
