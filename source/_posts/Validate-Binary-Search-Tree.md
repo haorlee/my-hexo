@@ -4,10 +4,6 @@ date: 2016-04-29 18:42:45
 tags:
 ---
 
-
-
-## LeetCode -- Validate Binary Search Tree ##
-<br/><br/>
 ### Title ###
 Given a binary tree, determine if it is a valid binary search tree (BST).
 
